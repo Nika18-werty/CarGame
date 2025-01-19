@@ -25,7 +25,7 @@ namespace CarRacingGame
 
                     if (car.Position >= 100)
                     {
-                        Console.WriteLine($"\nПереможець: {car.Name}. Вітання!");
+                        Console.WriteLine($"\nПереможець: {car.Name}. Вітання");
                         isRaceFinished = true;
                         break;
                     }
