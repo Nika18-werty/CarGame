@@ -11,7 +11,7 @@ namespace CarRacingGame
                 new SportsCar("Спортивний автомобіль"),
                 new PassengerCar("Легковий автомобіль"),
                 new Truck("Вантажівка"),
-                new Bus("Автобус")
+                new Bus("Автобус1")
             };
 
             Race race = new Race(cars);
